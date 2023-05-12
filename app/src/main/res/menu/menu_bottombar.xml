@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/viewOne"
+        android:icon="@drawable/ic_like"
+        android:title="Name"
+        />
+
+    <item android:id="@+id/viewTwo"
+        android:icon="@drawable/ic_heart"
+        android:title="Name"
+        />
+    <item android:id="@+id/viewThree"
+        android:title="Name"
+        />
+    <item android:id="@+id/viewFour"
+        android:icon="@drawable/ic_smile"
+        android:title="Name"
+        />
+    <item android:id="@+id/viewFive"
+        android:icon="@drawable/ic_star"
+        android:title="Name"
+        />
+
+</menu>
